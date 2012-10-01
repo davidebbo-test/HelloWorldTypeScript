@@ -1,0 +1,9 @@
+{
+    "name": "hellow-world-typescript"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+	  "typescript": "0.8.0"
+  }
+  , "scripts": { "install" : "node node_modules/typescript/bin/tsc.js HttpServer.ts" }
+}
